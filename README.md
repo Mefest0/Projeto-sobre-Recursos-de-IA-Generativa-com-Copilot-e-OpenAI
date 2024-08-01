@@ -29,3 +29,24 @@ Respostas dos Prompts:
 <p float="left">
  <img src="https://github.com/Mefest0/Projeto-sobre-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/main%20project/output/Request01-basic.png" width="80%" /> 
 </p>
+2° Resposta:
+<p float="left">
+ <img src="https://github.com/Mefest0/Projeto-sobre-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/main%20project/output/Request02-01-basic.png" width="80%" /> 
+ <img src="https://github.com/Mefest0/Projeto-sobre-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/main%20project/output/Request02-02-basic.png" width="80%" />
+</p>
+3° Resposta:
+<p float="left">
+ <img src="https://github.com/Mefest0/Projeto-sobre-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/main%20project/output/Request03-01-basic.png" width="80%" /> 
+ <img src="https://github.com/Mefest0/Projeto-sobre-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/main%20project/output/Request03-02-basic.png" width="80%" />
+</p>
+
+- Prompts de code Python & Java:
+
+1° Prompt: 
+<p float="left">
+ <img src="https://github.com/Mefest0/Projeto-sobre-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/main%20project/input/Question01-CodePython.png" width="60%" />
+</p> 
+2° Prompt:
+<p float="left">
+ <img src="https://github.com/Mefest0/Projeto-sobre-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/main%20project/input/Question01-CodeJava.png" width="60%" /> 
+</p>

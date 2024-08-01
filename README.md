@@ -86,4 +86,4 @@ Respostas dos Prompts de pesquisa
 
 <a href=“https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html“>Explore content filters in Azure OpenAI</a>
 
-<a href="https://web.dio.me/track/microsoft-copilot-aiDIO">Microsoft Copilot AI</a>
+<a href="https://web.dio.me/track/microsoft-copilot-aiDIO">DIO - Microsoft Copilot AI</a>

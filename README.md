@@ -77,3 +77,13 @@ Respostas dos Prompts de pesquisa
 <p float="left">
  <img src="https://github.com/Mefest0/Projeto-sobre-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/main%20project/output/Request01-CreateImg.png" width="70%" /> 
 </p>
+
+### Referências do projeto:
+
+<a href=“https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html“>Explore generative AI with Microsoft Copilot</a>
+
+<a href=“https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html“>Explore Azure OpenAI</a>
+
+<a href=“https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html“>Explore content filters in Azure OpenAI</a>
+
+<a href="https://web.dio.me/track/microsoft-copilot-aiDIO">Microsoft Copilot AI</a>
